@@ -1,0 +1,5 @@
+{
+  "name": "VidGenius",
+  "description": "An AI-powered video and image generation web application, with a user interface inspired by PixVerse. It allows users to create media by providing descriptive text prompts and configuring various generation settings.",
+  "requestFramePermissions": []
+}
